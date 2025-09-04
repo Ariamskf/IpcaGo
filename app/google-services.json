@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263578972995",
+    "project_id": "pcmp-a8ecc",
+    "storage_bucket": "pcmp-a8ecc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263578972995:android:953d756dc98372973eb5f6",
+        "android_client_info": {
+          "package_name": "com.pcmp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263578972995-2dd8tc1vf880gk81mb7luimvmidpt3l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyXMQDQuPIHhJogwHBzOXT9i0ixu490kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263578972995-2dd8tc1vf880gk81mb7luimvmidpt3l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
